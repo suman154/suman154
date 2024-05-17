@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-- 👨‍💻 All of my projects are available at [bhattasuman.com.np](bhattasuman.com.np)
+- 👨‍💻 All of my projects are available at [bhattasuman.com.np](https://bhattasuman.com.np/)
 
 
 - 💬 Ask me about **Django, Flask, React**
