@@ -4,12 +4,12 @@
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif">
 
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [bhattasuman.com.np](https://bhattasuman.com.np/)
 
 
-- 💬 Ask me about **Django, Flask, React**
+- 💬 Ask me about **Django, React**
 
 - 📫 How to reach me **sumanbhatta735@gmail.com**
 
